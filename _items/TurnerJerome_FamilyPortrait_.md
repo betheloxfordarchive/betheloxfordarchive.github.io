@@ -8,7 +8,7 @@ creator: ""
 creationdate: 2000s 
 type: "photograph" 
 shortdesc: "Family studio portraits, from Turner's childhood and adulthood." 
-categories: [ Portrait ] 
+categories: [ Portrait, Turner Family ] 
 tags: [Turner Family]
 --- 
 Turner was born in Oxford in 1963 and raised in a large, close-knit family with deep roots in Bethel AME Church and long-standing employment ties to Miami University. He discusses his parents’ migration to Oxford in the early 1950s, situating their move within broader African American migration patterns shaped by military service, limited economic opportunity in the South, and the search for stability in Midwestern college towns. His parents’ experiences working for Miami University—as custodial and domestic laborers—highlight the central role the institution played in shaping Black economic life in Oxford.
