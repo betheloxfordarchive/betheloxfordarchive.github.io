@@ -9,6 +9,6 @@ creationdate: Before and After 1957
 type: "photograph" 
 shortdesc: "Christmas was always important to Brenda and her family." 
 categories: [ Family Photos, Childhood, Christmas ] 
-tags:[Allen Family]
+tags: [Allen Family]
 ---
 
