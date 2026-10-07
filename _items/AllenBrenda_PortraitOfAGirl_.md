@@ -9,6 +9,6 @@ creationdate: 1950s or 1960s?
 type: "photograph" 
 shortdesc: "A portrait of a smiling girl protected in a mat. " 
 categories: [ Portrait, Childhood ] 
-tags:[Allen Family]
+tags: [Allen Family]
 ---
 
