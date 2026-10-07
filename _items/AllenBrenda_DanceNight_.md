@@ -1,7 +1,7 @@
---- 
+---
 layout: item 
 format: document 
-title: ""A Night to Remember" Full Body Portrait" 
+title: "'A Night to Remember' Full Body Portrait" 
 author: "Brenda Allen" 
 contributor: "Brenda Allen" 
 creator: "Brenda Allen" 
