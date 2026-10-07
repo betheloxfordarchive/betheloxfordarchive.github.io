@@ -9,5 +9,5 @@ creationdate: first half of 20th century
 type: "photograph" 
 shortdesc: "A man turns to face the camera while entering a car. An elderly woman stands between the car and plants." 
 categories: [ Family Photos ] 
-tags:[Allen Family]
+tags: [Allen Family]
 ---
