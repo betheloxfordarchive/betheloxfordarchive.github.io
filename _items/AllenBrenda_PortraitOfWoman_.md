@@ -8,7 +8,7 @@ creator: "Brenda Allen"
 creationdate: 9-Apr-45
 type: "photograph" 
 shortdesc: "A portrait of a woman, presumably Brenda Allen's beloved mother, poses for a portrait wearing a fine headband." 
-categories: [ Portrait, Mother ] 
+categories: [ Portrait, Mother, Allen Family ] 
 tags: [Allen Family]
 ---
 
