@@ -8,6 +8,6 @@ creator: ""
 creationdate: 1970s? 
 type: "photograph" 
 shortdesc: “Formal event portrait." 
-categories: [ Portrait ] 
+categories: [ Portrait, Turner Family ] 
 tags: [Turner Family]
 --- 
