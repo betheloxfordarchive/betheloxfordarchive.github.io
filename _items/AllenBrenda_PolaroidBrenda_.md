@@ -8,7 +8,7 @@ creator: "Brenda Allen"
 creationdate: 2000s??
 type: "photograph" 
 shortdesc: "Brenda Allen laughs and enjoys a moment inside. " 
-categories: [ Family Photos, Brenda Allen, Home ] 
+categories: [ Family Photos, Brenda Allen, Home, Allen Family ] 
 tags: [Allen Family]
 ---
 
