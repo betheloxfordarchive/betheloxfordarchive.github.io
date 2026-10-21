@@ -8,7 +8,7 @@ creator: "Brenda Allen"
 creationdate: 1960s-1980s??
 type: "ID card" 
 shortdesc: "An ID for an occupational work experience program protected inside an insurance-advertising envelope. " 
-categories: [ Work, Daily Life ] 
+categories: [ Work, Daily Life, Allen Family ] 
 tags: [Allen Family]
 ---
 
