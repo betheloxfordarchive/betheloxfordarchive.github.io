@@ -8,6 +8,6 @@ creator: ""
 creationdate: November 27, 2016
 type: “document" 
 shortdesc: “Recognition of Jerome Turner’s Church leadership." 
-categories: [ Faith, Leadership ] 
+categories: [ Faith, Leadership, Turner Family ] 
 tags: [Turner Family]
 --- 
