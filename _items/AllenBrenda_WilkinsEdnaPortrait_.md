@@ -8,7 +8,7 @@ creator: "Brenda Allen"
 creationdate: 1946??
 type: "photograph" 
 shortdesc: "A portrait of Edna Wilkins, either at 46 years old or taken in 1946." 
-categories: [ Mother?, Grandmother?, Family Photos, Portrait ] 
+categories: [ Mother?, Grandmother?, Family Photos, Portrait, Allen Family ] 
 tags: [Allen Family]
 ---
 
