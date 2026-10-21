@@ -8,7 +8,7 @@ creator: ""
 creationdate: 2016 
 type: “document" 
 shortdesc: “Church literature celebrating Man of Missions organization." 
-categories: [ Document, Certificate, Celebration, Man of Missions ] 
+categories: [ Document, Certificate, Celebration, Man of Missions, Turner Family ] 
 tags: [Turner Family]
 --- 
 
