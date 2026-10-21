@@ -8,7 +8,7 @@ creator: "Brenda Allen"
 creationdate: 1940s-1960s??
 type: "photograph" 
 shortdesc: "A young woman's face  seems to have been cropped out of a larger photograph. She expresses engagement with something or someone beyond the frame. " 
-categories: [ Women, Mother? ] 
+categories: [ Women, Mother?, Allen Family ] 
 tags: [Allen Family]
 ---
 
