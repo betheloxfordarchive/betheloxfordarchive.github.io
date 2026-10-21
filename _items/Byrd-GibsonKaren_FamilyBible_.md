@@ -8,6 +8,6 @@ creator: ""
 creationdate: 1920s
 type: "Family Bible" 
 shortdesc: "Preserves family trees and marriage records." 
-categories: [ Family Bible, Faith]
+categories: [ Family Bible, Faith, Byrd-Gibson Family ]
 tags: [Byrd-Gibson Family]
 --- 
