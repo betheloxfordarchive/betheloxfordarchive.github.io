@@ -8,6 +8,6 @@ creator: "Brenda Allen"
 creationdate: Mar-69?
 type: "photograph" 
 shortdesc: "A man lounges and reads a magazine in a domestic space." 
-categories: [ Men, Family?, Home ] 
+categories: [ Men, Family?, Home, Allen Family ] 
 tags: [Allen Family]
 ---
