@@ -8,6 +8,6 @@ creator: ""
 creationdate: Aug. 4, 2017 
 type: “photos" 
 shortdesc: “Jerome Turner attends Browns game with family and friends." 
-categories: [ Football, Sports, Family, Cleveland ] 
+categories: [ Football, Sports, Family, Cleveland, Turner Family ] 
 tags: [Turner Family]
 --- 
