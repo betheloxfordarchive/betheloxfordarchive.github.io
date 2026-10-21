@@ -8,6 +8,6 @@ creator: "Bethel AME Church"
 creationdate: September 20-27, 1987 
 type: "pamphlet" 
 shortdesc: "This pamphlet was distributed during the Anniversary Week at Bethel AME Church." 
-categories: [ Pamphlet ] 
+categories: [ Pamphlet, Turner Family ] 
 tags: [Turner Family]
 --- 
