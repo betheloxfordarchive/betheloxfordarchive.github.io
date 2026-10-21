@@ -8,7 +8,7 @@ creator: "Brenda Allen"
 creationdate: 1940s-1960s??
 type: "photograph" 
 shortdesc: "A portrait of a young man in a suit and tie. " 
-categories: [ Family Photos, Portrait, Man ] 
+categories: [ Family Photos, Portrait, Man, Allen Family ] 
 tags: [Allen Family]
 ---
 
