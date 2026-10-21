@@ -8,7 +8,7 @@ creator: "Brenda Allen"
 creationdate: 1940s-1960s?
 type: "photograph" 
 shortdesc: "A young woman poses for a portrait." 
-categories: [ Portrait ] 
+categories: [ Portrait, Allen Family ] 
 tags: [Allen Family]
 ---
 
