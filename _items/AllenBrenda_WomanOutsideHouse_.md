@@ -8,7 +8,7 @@ creator: "Brenda Allen"
 creationdate: 1940s-1960s??
 type: "photograph" 
 shortdesc: "A woman (maybe Brenda's mother?)wearing warm-weather clothing sits in the yard outside of a house." 
-categories: [ Family Photos ] 
+categories: [ Family Photos, Allen Family ] 
 tags: [Allen Family]
 ---
 
