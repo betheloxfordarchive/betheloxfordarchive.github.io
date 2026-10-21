@@ -8,7 +8,7 @@ creator: "Brenda Allen"
 creationdate: 1963
 type: "photograph" 
 shortdesc: "A man and a woman stand outside, each holding babies that look about the same age." 
-categories: [ Family Photos, Childhood ] 
+categories: [ Family Photos, Childhood, Allen Family ] 
 tags: [Allen Family]
 ---
 
