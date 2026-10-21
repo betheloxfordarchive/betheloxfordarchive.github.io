@@ -8,6 +8,6 @@ creator: ""
 creationdate: 2014, 2016 
 type: “document" 
 shortdesc: “Certificates recognizing Jerome Turner on Father’s Day." 
-categories: [ Document, Certificate, Celebration ] 
+categories: [ Document, Certificate, Celebration, Turner Family ] 
 tags: [Turner Family]
 --- 
