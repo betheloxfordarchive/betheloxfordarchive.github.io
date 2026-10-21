@@ -8,7 +8,7 @@ creator: "Brenda Allen"
 creationdate: 1940s-1960s?
 type: "photograph" 
 shortdesc: "A young child smiles while apparently eating something on the doorsteps to a building." 
-categories: [ Family Photos, Childhood ] 
+categories: [ Family Photos, Childhood, Allen Family ] 
 tags: [Allen Family]
 ---
 
