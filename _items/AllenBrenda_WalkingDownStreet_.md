@@ -8,7 +8,7 @@ creator: "Brenda Allen"
 creationdate: Maybe 1963
 type: "photograph" 
 shortdesc: "A young lady poses for a photo walking down the street wearing a nice skirt, hat, bag, and heels. " 
-categories: [ Family Photos, Childhood ] 
+categories: [ Family Photos, Childhood, Allen Family ] 
 tags: [Allen Family]
 ---
 
