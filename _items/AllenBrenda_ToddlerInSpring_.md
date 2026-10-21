@@ -8,7 +8,7 @@ creator: "Brenda Allen"
 creationdate: 1940s-1970s??
 type: "photograph" 
 shortdesc: "A young child stands in a clearing in the woods. Maybe summer or spring." 
-categories: [ Childhood, Family Photos ] 
+categories: [ Childhood, Family Photos, Allen Family ] 
 tags: [Allen Family]
 ---
 
