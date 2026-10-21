@@ -8,6 +8,6 @@ creator: ""
 creationdate: 1969-1970
 type: "ID Card" 
 shortdesc: "Brenda remembers teachers caring for her and other students' growth." 
-categories: [ School, Childhood ]
+categories: [ School, Childhood, Allen Family ]
 tags: [Allen Family]
 --- 
