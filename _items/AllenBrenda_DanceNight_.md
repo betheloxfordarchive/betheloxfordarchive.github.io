@@ -8,7 +8,7 @@ creator: "Brenda Allen"
 creationdate: "October 22, 1994?"
 type: "photograph" 
 shortdesc: "Sheree and Patrick as teens pose, holding hands, in front of a staged photo backdrop for the 1st Homecoming." 
-categories: [ Friends, Childhood, School?, Portrait ] 
+categories: [ Friends, Childhood, School?, Portrait, Allen Family ] 
 tags: [ Allen Family ]
 ---
 
