@@ -8,7 +8,7 @@ creator: "Brenda Allen"
 creationdate: 4/1/1952?
 type: "bill" 
 shortdesc: "A medical bill amounting to $18.45." 
-categories: [ Health, Daily Life ] 
+categories: [ Health, Daily Life, Allen Family ] 
 tags: [Allen Family]
 ---
 
