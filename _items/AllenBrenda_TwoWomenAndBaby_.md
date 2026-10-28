@@ -7,7 +7,7 @@ contributor: "Brenda Allen"
 creator: "Brenda Allen" 
 creationdate: 1940s-1960s?
 type: "photograph" 
-shortdesc: "A candid, outdoor photo of three generations? Of women." 
+shortdesc: ""
 categories: [ Family Photos, Childhood, Allen Family ] 
 tags: [Allen Family]
 ---

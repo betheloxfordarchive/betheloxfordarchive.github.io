@@ -7,7 +7,7 @@ contributor: "Brenda Allen"
 creator: "Brenda Allen" 
 creationdate: "2000s maybe"
 type: "photograph" 
-shortdesc: "A young boy dressed as a king with a sash that says 'king' leads a young girl, dressed as a queen with a tiara and twinkling jewelry, in a dark space." 
+shortdesc: ""
 categories: [ Childhood, Family Photos, Celebration, Allen Family ] 
 tags: [ Allen Family ]
 ---

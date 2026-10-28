@@ -7,7 +7,7 @@ contributor: "Brenda Allen"
 creator: "" 
 creationdate: 1938-06-09
 type: "Prayer Book" 
-shortdesc: "Stewart High School commencement, roll call, and diploma." 
+shortdesc: ""
 categories: [ High School, Education, Certificate, Allen Family ]
 tags: [Allen Family]
 --- 

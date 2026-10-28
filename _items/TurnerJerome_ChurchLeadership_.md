@@ -7,7 +7,7 @@ contributor: "Jerome Turner"
 creator: "" 
 creationdate: November 27, 2016
 type: “document" 
-shortdesc: “Recognition of Jerome Turner’s Church leadership." 
+shortdesc: ""
 categories: [ Faith, Leadership, Turner Family ] 
 tags: [Turner Family]
 --- 

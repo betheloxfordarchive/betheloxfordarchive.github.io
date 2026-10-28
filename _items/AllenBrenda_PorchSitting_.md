@@ -7,7 +7,7 @@ contributor: "Brenda Allen"
 creator: "Brenda Allen" 
 creationdate: 1960?
 type: "photograph" 
-shortdesc: "Six adults smile at the camera, socializing on a porch." 
+shortdesc: ""
 categories: [ Family Photos, Childhood, Allen Family ] 
 tags: [Allen Family]
 ---

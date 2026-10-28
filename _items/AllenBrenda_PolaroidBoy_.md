@@ -7,7 +7,7 @@ contributor: "Brenda Allen"
 creator: "Brenda Allen" 
 creationdate: 1990s-2000s??
 type: "photograph" 
-shortdesc: "A candid photo of a teen wearing sunglasses." 
+shortdesc: ""
 categories: [ Family Photos, Portrait, Man, Allen Family ] 
 tags: [Allen Family]
 ---

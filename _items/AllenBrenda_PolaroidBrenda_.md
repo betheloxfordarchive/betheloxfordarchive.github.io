@@ -7,7 +7,7 @@ contributor: "Brenda Allen"
 creator: "Brenda Allen" 
 creationdate: 2000s??
 type: "photograph" 
-shortdesc: "Brenda Allen laughs and enjoys a moment inside. " 
+shortdesc: ""
 categories: [ Family Photos, Brenda Allen, Home, Allen Family ] 
 tags: [Allen Family]
 ---

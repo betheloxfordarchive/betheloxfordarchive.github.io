@@ -7,7 +7,7 @@ contributor: "Brenda Allen"
 creator: "Brenda Allen" 
 creationdate: 1930s-1960s??
 type: "photograph" 
-shortdesc: "A young child poses outside of doorsteps weraing a hood and other cold-weather gear." 
+shortdesc: ""
 categories: [ Family Photos, Childhood, Allen Family ] 
 tags: [Allen Family]
 ---

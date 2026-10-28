@@ -7,7 +7,7 @@ contributor: "Karen Byrd-Gibson"
 creator: "" 
 creationdate: 1920s
 type: "Family Bible" 
-shortdesc: "Preserves family trees and marriage records." 
+shortdesc: ""
 categories: [ Family Bible, Faith, Byrd-Gibson Family ]
 tags: [Byrd-Gibson Family]
 --- 

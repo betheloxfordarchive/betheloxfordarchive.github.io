@@ -7,7 +7,7 @@ contributor: "Jerome Turner"
 creator: "" 
 creationdate: 1970s? 
 type: "photograph" 
-shortdesc: “Formal event portrait." 
+shortdesc: ""
 categories: [ Portrait, Turner Family ] 
 tags: [Turner Family]
 --- 

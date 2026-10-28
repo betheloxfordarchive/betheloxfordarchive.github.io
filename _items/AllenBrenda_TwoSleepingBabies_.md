@@ -7,7 +7,7 @@ contributor: "Brenda Allen"
 creator: "Brenda Allen" 
 creationdate: 1963
 type: "photograph" 
-shortdesc: "Two babies, maybe twins, are held upright by two other adults (one not pictured) outside. " 
+shortdesc: ""
 categories: [ Family Photos, Childhood, Allen Family ] 
 tags: [Allen Family]
 ---

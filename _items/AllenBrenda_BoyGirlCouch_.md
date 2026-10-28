@@ -7,7 +7,7 @@ contributor: "Brenda Allen"
 creator: "Brenda Allen" 
 creationdate: 1960s?
 type: "photograph" 
-shortdesc: "A boy poses for a photo with a baby girl on his lap who holds balloons." 
+shortdesc: ""
 categories: [ Childhood, Family Photos, Allen Family ] 
 tags: [Allen Family]
 ---

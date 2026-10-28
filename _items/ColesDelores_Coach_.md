@@ -7,7 +7,7 @@ contributor: "Delores Coles"
 creator: "" 
 creationdate: 1990s, 200s
 type: "Newspaper Clippings" 
-shortdesc: "Charlie Coach was a legendary basketball coach at UMiami." 
+shortdesc: ""
 categories: [ Sports, UMiami, Basketball, Coaching, Leadership, Coles Family ]
 tags: [Coles Family]
 --- 

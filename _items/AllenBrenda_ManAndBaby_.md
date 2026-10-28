@@ -7,7 +7,7 @@ contributor: "Brenda Allen"
 creator: "Brenda Allen" 
 creationdate: 1954
 type: "photograph" 
-shortdesc: "A young man, maybe Brenda's father, holds a baby who is apparently five weeks old, maybe Brenda. On the edge of a bed. " 
+shortdesc: ""
 categories: [ Father?, Childhood, Family Photos, Allen Family ] 
 tags: [Allen Family]
 ---

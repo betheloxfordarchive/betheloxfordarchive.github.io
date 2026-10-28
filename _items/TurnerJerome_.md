@@ -7,7 +7,7 @@ contributor: "Jerome Turner"
 creator: 
 creationdate: 
 type: "pamphlet" 
-shortdesc: "These materials were contributed by Jerome Turner" 
+shortdesc: ""
 categories: [ Turner Family ] 
 tags: [Turner Family]
 --- 

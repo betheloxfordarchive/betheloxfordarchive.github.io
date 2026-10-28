@@ -7,7 +7,7 @@ contributor: "Brenda Allen"
 creator: "Brenda Allen" 
 creationdate: 1950s?
 type: "photograph" 
-shortdesc: "A toddler, presumably Brenda Allen, poses for a portrait, wearing a blazer and patterned pants." 
+shortdesc: ""
 categories: [ Childhood, Portrait, Allen Family ] 
 tags: [Allen Family]
 ---

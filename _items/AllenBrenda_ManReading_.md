@@ -7,7 +7,7 @@ contributor: "Brenda Allen"
 creator: "Brenda Allen" 
 creationdate: Mar-69?
 type: "photograph" 
-shortdesc: "A man lounges and reads a magazine in a domestic space." 
+shortdesc: ""
 categories: [ Men, Family?, Home, Allen Family ] 
 tags: [Allen Family]
 ---

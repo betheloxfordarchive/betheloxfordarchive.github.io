@@ -7,7 +7,7 @@ contributor: "Brenda Allen"
 creator: "Brenda Allen" 
 creationdate: Before and After 1957
 type: "photograph" 
-shortdesc: "Christmas was always important to Brenda and her family." 
+shortdesc: ""
 categories: [ Family Photos, Childhood, Christmas, Allen Family ] 
 tags: [Allen Family]
 ---

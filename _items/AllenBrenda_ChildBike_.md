@@ -7,7 +7,7 @@ contributor: "Brenda Allen"
 creator: "Brenda Allen" 
 creationdate: 1950s or 1960s?
 type: "photograph" 
-shortdesc: "A small child wearing a coat rides a bicycle on the grass. " 
+shortdesc: ""
 categories: [ Childhood, Allen Family ] 
 tags: [Allen Family]
 ---

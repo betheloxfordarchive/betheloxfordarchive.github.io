@@ -7,7 +7,7 @@ contributor: "Jerome Turner"
 creator: "" 
 creationdate: 2000s 
 type: "photograph" 
-shortdesc: "Family studio portraits, from Turner's childhood and adulthood." 
+shortdesc: ""
 categories: [ Portrait, Turner Family ] 
 tags: [Turner Family]
 --- 

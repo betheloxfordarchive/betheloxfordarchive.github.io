@@ -7,7 +7,7 @@ contributor: "Brenda Allen"
 creator: "Brenda Allen" 
 creationdate: first half of 20th century?
 type: "photograph" 
-shortdesc: "A man in full uniform, perhaps the Navy uniform, stands and smiles outside of a car." 
+shortdesc: ""
 categories: [ Family Photos, Allen Family ] 
 tags: [Allen Family]
 ---

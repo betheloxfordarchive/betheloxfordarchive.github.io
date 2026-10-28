@@ -7,7 +7,7 @@ contributor: "Brenda Allen"
 creator: "Brenda Allen" 
 creationdate: 1950s or 1960s?
 type: "photograph" 
-shortdesc: "A young man in uniform, maybe Brenda Allen's father, sits on a chair and poses for a portrait. " 
+shortdesc: ""
 categories: [ Father?, Portrait, Allen Family ] 
 tags: [Allen Family]
 ---

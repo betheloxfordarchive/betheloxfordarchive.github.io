@@ -7,7 +7,7 @@ contributor: "Brenda Allen"
 creator: "" 
 creationdate: 1969-1970
 type: "ID Card" 
-shortdesc: "Brenda remembers teachers caring for her and other students' growth." 
+shortdesc: ""
 categories: [ School, Childhood, Allen Family ]
 tags: [Allen Family]
 --- 

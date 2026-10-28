@@ -7,7 +7,7 @@ contributor: "Brenda Allen"
 creator: "Brenda Allen" 
 creationdate: 4/3/2005?
 type: "photograph" 
-shortdesc: "Four school-aged girls pose for a photo." 
+shortdesc: ""
 categories: [ Friends, School, Allen Family ] 
 tags: [Allen Family]
 ---

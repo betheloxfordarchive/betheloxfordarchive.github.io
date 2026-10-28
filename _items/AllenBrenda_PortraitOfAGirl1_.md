@@ -7,7 +7,7 @@ contributor: "Brenda Allen"
 creator: "Brenda Allen" 
 creationdate: 1950s or 1960s?
 type: "photograph" 
-shortdesc: "A portrait of a smiling girl protected in a mat. " 
+shortdesc: ""
 categories: [ Portrait, Childhood, Allen Family ] 
 tags: [Allen Family]
 ---

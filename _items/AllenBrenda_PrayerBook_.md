@@ -7,7 +7,7 @@ contributor: "Brenda Allen"
 creator: "" 
 creationdate: 1936-10-24
 type: "Prayer Book" 
-shortdesc: "This prayer book belonged to Bernice Wilkins, mother of Brenda Allen." 
+shortdesc: ""
 categories: [ Prayer Book, Notes, Faith, Allen Family ]
 tags: [Allen Family]
 --- 
