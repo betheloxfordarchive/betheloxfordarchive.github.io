@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: document 
-title: "Three boys" 
-author: "Brenda Allen" 
-contributor: "Brenda Allen" 
-creator: "Brenda Allen" 
-creationdate: 2000s?
-type: "photograph" 
+format: Photograph
+title: " " 
+author: " " 
+contributor: " " 
+creator: " " 
+creationdate:  
+type: "Photograph" 
 shortdesc: ""
-categories: [ Childhood, Friends?, Allen Family ] 
-tags: [Allen Family]
+categories: [ Allen Family ] 
+tags: [ ]
 ---
 
