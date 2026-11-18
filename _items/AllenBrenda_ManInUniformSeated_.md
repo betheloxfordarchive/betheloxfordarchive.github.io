@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: document 
-title: "Portrait of a Man in Uniform" 
-author: "Brenda Allen" 
-contributor: "Brenda Allen" 
-creator: "Brenda Allen" 
-creationdate: 1950s or 1960s?
-type: "photograph" 
+format: Photograph
+title: " " 
+author: " " 
+contributor: " " 
+creator: " " 
+creationdate:  
+type: "Photograph" 
 shortdesc: ""
-categories: [ Father?, Portrait, Allen Family ] 
+categories: [ Allen Family ] 
 tags: [Allen Family]
 ---
 
