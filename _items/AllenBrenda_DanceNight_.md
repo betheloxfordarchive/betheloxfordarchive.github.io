@@ -1,14 +1,14 @@
 ---
 layout: item 
-format: document 
-title: "'A Night to Remember' Full Body Portrait" 
-author: "Brenda Allen" 
-contributor: "Brenda Allen" 
-creator: "Brenda Allen" 
-creationdate: "October 22, 1994?"
-type: "photograph" 
+format: Photograph
+title: " " 
+author: " " 
+contributor: " " 
+creator: " " 
+creationdate: " "
+type: "Photograph" 
 shortdesc: ""
-categories: [ Friends, Childhood, School?, Portrait, Allen Family ] 
-tags: [ Allen Family ]
+categories: [ Allen Family ] 
+tags: [ ]
 ---
 
