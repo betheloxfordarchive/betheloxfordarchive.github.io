@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: document 
-title: "Boy and Baby Girl on Couch" 
-author: "Brenda Allen" 
-contributor: "Brenda Allen" 
-creator: "Brenda Allen" 
-creationdate: 1960s?
-type: "photograph" 
+format: Photograph
+title: " " 
+author: " " 
+contributor: " " 
+creator: " " 
+creationdate:  
+type: "Photograph" 
 shortdesc: ""
-categories: [ Childhood, Family Photos, Allen Family ] 
-tags: [Allen Family]
+categories: [ Allen Family ] 
+tags: [ ]
 ---
 
