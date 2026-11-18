@@ -1,13 +1,13 @@
 --- 
 layout: item 
 format: photo 
-title: "Brenda's Talwanda High School ID Card" 
+title: " " 
 author: "" 
 contributor: "Brenda Allen" 
 creator: "" 
-creationdate: 1969-1970
-type: "ID Card" 
+creationdate:  
+type: "Document" 
 shortdesc: ""
-categories: [ School, Childhood, Allen Family ]
-tags: [Allen Family]
+categories: [ Allen Family ]
+tags: [ ]
 --- 
