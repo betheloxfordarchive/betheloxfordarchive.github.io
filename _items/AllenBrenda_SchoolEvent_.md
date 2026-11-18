@@ -9,6 +9,6 @@ creationdate:
 type: "Photograph" 
 shortdesc: ""
 categories: [  Allen Family ] 
-tags: [Allen Family]
+tags: [ ]
 ---
 
