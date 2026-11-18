@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: document 
-title: Boy and Dog
-author: "Brenda Allen" 
-contributor: "Brenda Allen" 
-creator: "Brenda Allen" 
-creationdate: 1950s-1970s??
-type: "photograph" 
+format: Photograph
+title:  
+author: " " 
+contributor: " " 
+creator: " " 
+creationdate: 
+type: "Photograph" 
 shortdesc: ""
-categories: [ Childhood, Friends?, Allen Family ] 
+categories: [ Allen Family ] 
 tags: [Allen Family]
 ---
 
