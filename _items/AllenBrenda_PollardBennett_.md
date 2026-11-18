@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: document 
-title: Portraits and Photos of Bennett Pollard
-author: "Brenda Allen" 
-contributor: "Brenda Allen" 
-creator: "Brenda Allen" 
-creationdate: 1980s-2000s
-type: "photograph" 
+format: Photograph
+title: 
+author: " " 
+contributor: " " 
+creator: " " 
+creationdate:  
+type: "Photograph" 
 shortdesc: ""
-categories: [ Portrait, Childhood, Allen Family ]
+categories: [ Allen Family ]
 tags: [Allen Family]
 ---
 
