@@ -1,11 +1,11 @@
 --- 
 layout: item 
-format: document 
+format: 
 title: "Tangerine Bowl 1973" 
 author: "" 
 contributor: "" 
 creator: "" 
-creationdate: ?
+creationdate: 
 type: "" 
 shortdesc: "" 
 categories: [  ] 
