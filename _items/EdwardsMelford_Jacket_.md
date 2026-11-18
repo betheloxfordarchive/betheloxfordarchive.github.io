@@ -5,7 +5,7 @@ title: "Miami Varsity Jacket"
 author: "" 
 contributor: "" 
 creator: "" 
-creationdate: ?
+creationdate: 
 type: "" 
 shortdesc: "" 
 categories: [  ] 
