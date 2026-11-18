@@ -1,13 +1,13 @@
 --- 
 layout: item 
-format: photo 
-title: "Bernice Wilkins's High School Diploma" 
+format: Publication
+title: " " 
 author: "" 
-contributor: "Brenda Allen" 
+contributor: " " 
 creator: "" 
-creationdate: 1938-06-09
-type: "Prayer Book" 
+creationdate:  
+type: "Publication" 
 shortdesc: ""
-categories: [ High School, Education, Certificate, Allen Family ]
+categories: [  Allen Family ]
 tags: [Allen Family]
 --- 
