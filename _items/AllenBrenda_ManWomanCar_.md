@@ -1,6 +1,6 @@
 --- 
 layout: item 
-format: document 
+format: Photograph
 title: " " 
 author: " " 
 contributor: " " 
