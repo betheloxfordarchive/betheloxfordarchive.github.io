@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: document 
-title: "School Event Group Photo" 
-author: "Brenda Allen" 
-contributor: "Brenda Allen" 
-creator: "Brenda Allen" 
-creationdate: 4/3/2005?
-type: "photograph" 
+format: Photograph
+title: " " 
+author: " " 
+contributor: " " 
+creator: " " 
+creationdate:  
+type: "Photograph" 
 shortdesc: ""
-categories: [ Friends, School, Allen Family ] 
+categories: [  Allen Family ] 
 tags: [Allen Family]
 ---
 
