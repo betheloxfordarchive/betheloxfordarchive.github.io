@@ -1,13 +1,13 @@
 --- 
 layout: item 
-format: photo 
-title: "Bernice Wilkins's Baptism Certificate" 
+format: Photograph
+title: " " 
 author: "" 
-contributor: "Brenda Allen" 
+contributor: " " 
 creator: "" 
-creationdate: 1939-06-11
-type: "Prayer Book" 
+creationdate:  
+type: "Documents" 
 shortdesc: ""
-categories: [ Baptism, Faith, Allen Family ]
-tags: [Allen Family]
+categories: [ Allen Family ]
+tags: [ ]
 --- 
