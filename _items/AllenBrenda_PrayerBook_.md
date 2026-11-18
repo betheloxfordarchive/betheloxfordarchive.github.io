@@ -1,13 +1,13 @@
 --- 
 layout: item 
-format: photo 
-title: "Bernice Wilkins's Prayer Book" 
+format: Document
+title: " " 
 author: "" 
-contributor: "Brenda Allen" 
+contributor: " " 
 creator: "" 
-creationdate: 1936-10-24
-type: "Prayer Book" 
+creationdate:  
+type: "Family Heirloom" 
 shortdesc: ""
-categories: [ Prayer Book, Notes, Faith, Allen Family ]
-tags: [Allen Family]
+categories: [ Allen Family ]
+tags: [ ]
 --- 
