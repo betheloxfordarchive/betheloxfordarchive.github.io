@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: document 
-title: "Child and Baby on Couch" 
-author: "Brenda Allen" 
-contributor: "Brenda Allen" 
-creator: "Brenda Allen" 
-creationdate: 1960s-2000s??
-type: "photograph" 
+format: Photograph
+title: " " 
+author: " " 
+contributor: " " 
+creator: " " 
+creationdate:  
+type: " " 
 shortdesc: ""
-categories: [ Childhood, Family Photos, Allen Family ] 
-tags: [Allen Family]
+categories: [  Allen Family ] 
+tags: [ ]
 ---
 
