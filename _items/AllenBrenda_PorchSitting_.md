@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: document 
-title: Porch Sitting
-author: "Brenda Allen" 
-contributor: "Brenda Allen" 
-creator: "Brenda Allen" 
-creationdate: 1960?
-type: "photograph" 
+format: Photograph
+title:  
+author: " " 
+contributor: " " 
+creator: " " 
+creationdate: 
+type: "Photograph" 
 shortdesc: ""
-categories: [ Family Photos, Childhood, Allen Family ] 
+categories: [ Allen Family ] 
 tags: [Allen Family]
 ---
 
