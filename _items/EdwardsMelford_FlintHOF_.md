@@ -5,7 +5,7 @@ title: "Flint Afro-American Hall of Fame"
 author: "" 
 contributor: "" 
 creator: "" 
-creationdate: ?
+creationdate: 
 type: "" 
 shortdesc: "" 
 categories: [  ] 
