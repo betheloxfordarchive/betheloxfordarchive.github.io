@@ -1,9 +1,9 @@
 --- 
 layout: item 
-format: photo 
+format: Photograph
 title: " " 
 author: "" 
-contributor: "Brenda Allen" 
+contributor: " " 
 creator: "" 
 creationdate:  
 type: "Document" 
