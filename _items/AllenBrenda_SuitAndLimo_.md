@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: document 
-title: "Suit and Limousine" 
-author: "Brenda Allen" 
-contributor: "Brenda Allen" 
-creator: "Brenda Allen" 
-creationdate: December 12, 2009??
-type: "photograph" 
+format: Photograph
+title: " " 
+author: " " 
+contributor: " " 
+creator: " " 
+creationdate: 
+type: "Photograph" 
 shortdesc: ""
-categories: [ Childhood, Family Photos, Celebration, Allen Family ] 
-tags: [Allen Family]
+categories: [ Allen Family ] 
+tags: [ ]
 ---
 
