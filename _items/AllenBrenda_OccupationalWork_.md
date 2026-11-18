@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: document 
-title: "Occupational Work Experience Program" 
-author: "Brenda Allen" 
-contributor: "Brenda Allen" 
-creator: "Brenda Allen" 
-creationdate: 1960s-1980s??
-type: "ID card" 
+format: Photograph
+title: " " 
+author: "" 
+contributor: " " 
+creator: " " 
+creationdate: 
+type: "Family Heirlooms" 
 shortdesc: ""
-categories: [ Work, Daily Life, Allen Family ] 
-tags: [Allen Family]
+categories: [ Allen Family ] 
+tags: [ ]
 ---
 
