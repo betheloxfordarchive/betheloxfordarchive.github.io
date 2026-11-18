@@ -5,7 +5,7 @@ title: "Championship Rings"
 author: "" 
 contributor: "" 
 creator: "" 
-creationdate: ?
+creationdate: 
 type: "" 
 shortdesc: "" 
 categories: [  ] 
