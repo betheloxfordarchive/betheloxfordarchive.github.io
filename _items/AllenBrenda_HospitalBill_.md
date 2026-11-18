@@ -1,14 +1,14 @@
 --- 
 layout: item 
 format: document 
-title: "Hospital Care Bill" 
-author: "Brenda Allen" 
-contributor: "Brenda Allen" 
-creator: "Brenda Allen" 
-creationdate: 4/1/1952?
-type: "bill" 
+title: " " 
+author: " " 
+contributor: " " 
+creator: " " 
+creationdate: 
+type: "Document" 
 shortdesc: ""
-categories: [ Health, Daily Life, Allen Family ] 
-tags: [Allen Family]
+categories: [ Allen Family ] 
+tags: [ ]
 ---
 
