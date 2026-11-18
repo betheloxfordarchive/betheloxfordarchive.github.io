@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: document 
-title: "Portrait of a Girl or Young Woman " 
-author: "Brenda Allen" 
-contributor: "Brenda Allen" 
-creator: "Brenda Allen" 
-creationdate: 1940s-1960s?
-type: "photograph" 
+format: Photograph 
+title: " " 
+author: " " 
+contributor: " " 
+creator: " " 
+creationdate: 
+type: "Photograph" 
 shortdesc: ""
-categories: [ Portrait, Allen Family ] 
-tags: [Allen Family]
+categories: [ Allen Family ] 
+tags: [ ]
 ---
 
