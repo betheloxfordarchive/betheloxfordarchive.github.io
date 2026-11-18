@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: document 
-title: Portrait of Brenda Allen as a Toddler
-author: "Brenda Allen" 
-contributor: "Brenda Allen" 
-creator: "Brenda Allen" 
-creationdate: 1950s?
-type: "photograph" 
+format: Photograph
+title:  
+author: " " 
+contributor: " " 
+creator: " " 
+creationdate: 
+type: "Photograph" 
 shortdesc: ""
-categories: [ Childhood, Portrait, Allen Family ] 
-tags: [Allen Family]
+categories: [  Allen Family ] 
+tags: [ ]
 ---
 
