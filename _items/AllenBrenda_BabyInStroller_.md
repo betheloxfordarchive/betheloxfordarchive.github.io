@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: document 
+format: Photograph 
 title: "Mom? And Baby on a Walk" 
-author: "Brenda Allen" 
-contributor: "Brenda Allen" 
-creator: "Brenda Allen" 
-creationdate: 1950s or 1960s?
-type: "photograph" 
+author: " " 
+contributor: " " 
+creator: " " 
+creationdate:
+type: "Photograph" 
 shortdesc: ""
-categories: [ Childhood, Family Photos, Mother?, Allen Family ] 
-tags: [Allen Family]
+categories: [ Allen Family ] 
+tags: [ ]
 ---
 
