@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: document 
-title: "Album of a Family" 
-author: "Brenda Allen" 
-contributor: "Brenda Allen" 
-creator: "Brenda Allen" 
-creationdate: 1950s??
-type: "photograph" 
+format: Photograph 
+title: " " 
+author: " " 
+contributor: " " 
+creator: " " 
+creationdate:  
+type: "Photograph" 
 shortdesc: ""
-categories: [ Home, Family Photos, Childhood, Allen Family ] 
-tags: [Allen Family]
+categories: [ Allen Family ] 
+tags: [ ]
 ---
 
