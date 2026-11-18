@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: document 
-title: Homecoming Young King and Queen
-author: "Brenda Allen" 
-contributor: "Brenda Allen" 
-creator: "Brenda Allen" 
-creationdate: "2000s maybe"
-type: "photograph" 
+format: Photograph
+title: 
+author: " " 
+contributor: " " 
+creator: " " 
+creationdate: " "
+type: "Photograph" 
 shortdesc: ""
-categories: [ Childhood, Family Photos, Celebration, Allen Family ] 
-tags: [ Allen Family ]
+categories: [ Allen Family ] 
+tags: [ ]
 ---
 
