@@ -5,7 +5,7 @@ title: "Helmet"
 author: "" 
 contributor: "" 
 creator: "" 
-creationdate: ?
+creationdate: 
 type: "" 
 shortdesc: "" 
 categories: [  ] 
