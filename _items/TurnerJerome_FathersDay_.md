@@ -1,13 +1,13 @@
 --- 
 layout: item 
-format: items
-title: “Father’s Day Certificates" 
+format: Document
+title: “ " 
 author: 
-contributor: "Jerome Turner" 
+contributor: " " 
 creator: "" 
-creationdate: 2014, 2016 
-type: “document" 
+creationdate:  
+type: “Publication" 
 shortdesc: ""
-categories: [ Document, Certificate, Celebration, Turner Family ] 
-tags: [Turner Family]
+categories: [ Turner Family ] 
+tags: [ ]
 --- 
