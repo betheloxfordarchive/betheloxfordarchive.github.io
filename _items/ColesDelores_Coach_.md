@@ -1,13 +1,13 @@
 --- 
 layout: item 
-format: Newspaper
-title: "Coach Charlie Coles in the News" 
+format: Photograph
+title: " " 
 author: "" 
-contributor: "Delores Coles" 
+contributor: " " 
 creator: "" 
-creationdate: 1990s, 200s
-type: "Newspaper Clippings" 
+creationdate:  
+type: "Publication" 
 shortdesc: ""
-categories: [ Sports, UMiami, Basketball, Coaching, Leadership, Coles Family ]
-tags: [Coles Family]
+categories: [ Coles Family ]
+tags: [ ]
 --- 
