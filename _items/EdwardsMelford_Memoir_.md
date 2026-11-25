@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: document 
-title: "Memoir Unwanted, Unworthy, Unshackled" 
+format: Document 
+title: " " 
 author: "" 
 contributor: "" 
 creator: "" 
 creationdate: 
-type: "" 
+type: "Publication" 
 shortdesc: "" 
-categories: [  ] 
+categories: [ Edwards Family ] 
 tags: []
 ---
 
