@@ -1,7 +1,7 @@
 --- 
 layout: item 
 format: Photograph
-title: "Miami Football Reunions" 
+title: " " 
 author: "" 
 contributor: "" 
 creator: "" 
