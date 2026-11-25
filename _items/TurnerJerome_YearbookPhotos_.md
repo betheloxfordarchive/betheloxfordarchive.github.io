@@ -1,13 +1,13 @@
 --- 
 layout: item 
-format: items
-title: “School Portraits" 
+format: Photograph
+title: “" 
 author: 
-contributor: "Jerome Turner" 
+contributor: "" 
 creator: "" 
-creationdate: 1960s, 70s 
-type: "photograph" 
+creationdate: 
+type: "Photograph" 
 shortdesc: ""
-categories: [ Portrait, School, Turner Family ] 
-tags: [Turner Family]
+categories: [ Turner Family ] 
+tags: [ ]
 --- 
