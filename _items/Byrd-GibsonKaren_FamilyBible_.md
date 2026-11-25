@@ -1,13 +1,13 @@
 --- 
 layout: item 
-format: photo 
-title: "Byrd Family Bible" 
+format: Photograph 
+title: " " 
 author: "" 
-contributor: "Karen Byrd-Gibson" 
+contributor: " " 
 creator: "" 
-creationdate: 1920s
-type: "Family Bible" 
+creationdate: 
+type: "Publication" 
 shortdesc: ""
-categories: [ Family Bible, Faith, Byrd-Gibson Family ]
-tags: [Byrd-Gibson Family]
+categories: [ Byrd-Gibson Family ]
+tags: [ ]
 --- 
