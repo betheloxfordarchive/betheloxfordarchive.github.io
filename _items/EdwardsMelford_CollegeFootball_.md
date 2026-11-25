@@ -1,14 +1,14 @@
 --- 
 layout: item 
 format: document 
-title: "Miami Football 1973-1975" 
+title: " " 
 author: "" 
 contributor: "" 
 creator: "" 
 creationdate: 
-type: "" 
+type: "Document" 
 shortdesc: "" 
-categories: [  ] 
+categories: [ Edwards Family ] 
 tags: []
 ---
 
