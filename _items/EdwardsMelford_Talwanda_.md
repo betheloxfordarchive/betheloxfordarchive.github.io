@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format:  
-title: "Coaching and Teaching" 
+format: Photograph
+title: " " 
 author: "" 
 contributor: "" 
 creator: "" 
 creationdate: 
-type: "" 
+type: "Photograph" 
 shortdesc: "" 
-categories: [  ] 
+categories: [ Edwards Family ] 
 tags: []
 ---
 
