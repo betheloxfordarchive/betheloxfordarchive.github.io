@@ -1,7 +1,7 @@
 --- 
 layout: item 
 format: Photograph
-title: "Photograph" 
+title: " " 
 author: " " 
 contributor: " " 
 creator: " " 
