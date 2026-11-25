@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: document 
-title: "Circular Portrait of a Young Woman" 
-author: "Brenda Allen" 
-contributor: "Brenda Allen" 
-creator: "Brenda Allen" 
-creationdate: 1940s-1960s??
-type: "photograph" 
+format: Photograph
+title: " " 
+author: " " 
+contributor: " " 
+creator: " " 
+creationdate: 
+type: "Photograph" 
 shortdesc: ""
-categories: [ Women, Mother?, Allen Family ] 
-tags: [Allen Family]
+categories: [ Allen Family ] 
+tags: [ ]
 ---
 
