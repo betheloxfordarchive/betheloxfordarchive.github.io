@@ -1,13 +1,13 @@
 --- 
 layout: item 
-format: items
-title: “Service to UMiami" 
+format: Photograph
+title: “ " 
 author: 
-contributor: "Jerome Turner" 
+contributor: " " 
 creator: "" 
 creationdate: 2007
-type: “photos" 
+type: “Photograph" 
 shortdesc: ""
-categories: [ Work, Employment, Turner Family ] 
-tags: [Turner Family]
+categories: [ Turner Family ] 
+tags: [ ]
 --- 
