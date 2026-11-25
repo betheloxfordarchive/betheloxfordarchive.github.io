@@ -1,6 +1,6 @@
 --- 
 layout: item 
-format: document 
+format: Document 
 title: " " 
 author: " " 
 contributor: " " 
