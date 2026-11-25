@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: 
-title: "Red Brick Magic" 
+format: Photograph
+title: " " 
 author: "" 
 contributor: "" 
 creator: "" 
 creationdate: 
-type: "" 
+type: "Pubication" 
 shortdesc: "" 
-categories: [  ] 
+categories: [ Edwards Family ] 
 tags: []
 ---
 
