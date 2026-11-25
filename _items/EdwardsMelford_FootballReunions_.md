@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: 
+format: Photograph
 title: "Miami Football Reunions" 
 author: "" 
 contributor: "" 
 creator: "" 
 creationdate: 
-type: "" 
+type: "Photograph" 
 shortdesc: "" 
-categories: [  ] 
+categories: [ Edwards Family ] 
 tags: []
 ---
 
