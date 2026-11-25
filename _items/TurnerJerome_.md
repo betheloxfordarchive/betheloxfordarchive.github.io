@@ -1,13 +1,13 @@
 --- 
 layout: item 
-format: items
-title: Jerome Turner
+format: Photograph
+title:  
 author: 
-contributor: "Jerome Turner" 
+contributor: " " 
 creator: 
 creationdate: 
-type: "pamphlet" 
+type: "Publication" 
 shortdesc: ""
 categories: [ Turner Family ] 
-tags: [Turner Family]
+tags: [ ]
 --- 
