@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: document 
-title: "Trophy" 
+format: Photograph
+title: " " 
 author: "" 
 contributor: "" 
-creator: "" 
-creationdate: ?
-type: "" 
+creator: " " 
+creationdate: 
+type: "Family Heirloom" 
 shortdesc: "" 
-categories: [  ] 
+categories: [ Edwards Family ] 
 tags: []
 ---
 
