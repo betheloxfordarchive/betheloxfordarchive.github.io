@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: items
-title: “Man of Missions Documents" 
+format: Photograph
+title: “ " 
 author: 
-contributor: "Jerome Turner" 
+contributor: " " 
 creator: "" 
-creationdate: 2016 
-type: “document" 
+creationdate: 
+type: “Publication" 
 shortdesc: ""
-categories: [ Document, Certificate, Celebration, Man of Missions, Turner Family ] 
-tags: [Turner Family]
+categories: [ Turner Family ] 
+tags: [ ]
 --- 
 
