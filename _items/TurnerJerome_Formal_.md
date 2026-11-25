@@ -1,13 +1,13 @@
 --- 
 layout: item 
-format: items
-title: “Formal Dance Portraits" 
+format: Photograph
+title: “ " 
 author: 
-contributor: "Jerome Turner" 
+contributor: " " 
 creator: "" 
-creationdate: 1970s? 
-type: "photograph" 
+creationdate:  
+type: "Photograph" 
 shortdesc: ""
-categories: [ Portrait, Turner Family ] 
-tags: [Turner Family]
+categories: [ Turner Family ] 
+tags: [ ]
 --- 
