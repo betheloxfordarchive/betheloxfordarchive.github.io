@@ -1,13 +1,13 @@
 --- 
 layout: item 
-format: items
-title: “Cleveland Browns Game" 
+format: Photograph
+title: “ " 
 author: 
-contributor: "Jerome Turner" 
+contributor: " " 
 creator: "" 
-creationdate: Aug. 4, 2017 
-type: “photos" 
+creationdate: 
+type: “Photograph" 
 shortdesc: ""
-categories: [ Football, Sports, Family, Cleveland, Turner Family ] 
-tags: [Turner Family]
+categories: [ Turner Family ] 
+tags: [ ]
 --- 
