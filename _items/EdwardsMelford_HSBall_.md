@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: 
-title: "Michigan High School Football" 
+format: Photograph
+title: " " 
 author: "" 
 contributor: "" 
 creator: "" 
 creationdate: 
-type: "" 
+type: "Photograph" 
 shortdesc: "" 
-categories: [  ] 
+categories: [ Edwards Family ] 
 tags: []
 ---
 
