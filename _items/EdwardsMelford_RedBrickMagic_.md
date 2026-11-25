@@ -6,7 +6,7 @@ author: ""
 contributor: "" 
 creator: "" 
 creationdate: 
-type: "Pubication" 
+type: "Publication" 
 shortdesc: "" 
 categories: [ Edwards Family ] 
 tags: []
