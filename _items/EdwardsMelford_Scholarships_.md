@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: document 
-title: "Scholarships" 
+format: Photograph
+title: "" 
 author: "" 
 contributor: "" 
 creator: "" 
 creationdate: 
-type: "" 
+type: "Photograph" 
 shortdesc: "" 
-categories: [  ] 
+categories: [ Edwards Family ] 
 tags: []
 ---
 
