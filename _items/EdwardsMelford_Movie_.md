@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: 
-title: "Show Me The Father Movie" 
+format: Photograph
+title: "" 
 author: "" 
 contributor: "" 
 creator: "" 
 creationdate: 
-type: "" 
+type: "Publication" 
 shortdesc: "" 
-categories: [  ] 
+categories: [ Edwards Family ] 
 tags: []
 ---
 
