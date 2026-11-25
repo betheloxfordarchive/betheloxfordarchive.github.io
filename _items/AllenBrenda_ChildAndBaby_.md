@@ -6,7 +6,7 @@ author: " "
 contributor: " " 
 creator: " " 
 creationdate:  
-type: " " 
+type: "Photograph" 
 shortdesc: ""
 categories: [  Allen Family ] 
 tags: [ ]
