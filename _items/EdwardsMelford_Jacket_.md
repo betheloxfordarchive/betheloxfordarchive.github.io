@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: 
-title: "Miami Varsity Jacket" 
+format: Photograph
+title: " " 
 author: "" 
 contributor: "" 
 creator: "" 
 creationdate: 
-type: "" 
+type: "Family Heirloom" 
 shortdesc: "" 
-categories: [  ] 
+categories: [ Edwards Family ] 
 tags: []
 ---
 
