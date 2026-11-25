@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: 
-title: "Tangerine Bowl 1973" 
+format: Photograph
+title: " " 
 author: "" 
 contributor: "" 
 creator: "" 
 creationdate: 
-type: "" 
+type: "Document" 
 shortdesc: "" 
-categories: [  ] 
+categories: [ Edwards Family ] 
 tags: []
 ---
 
