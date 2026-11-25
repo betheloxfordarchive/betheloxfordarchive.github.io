@@ -1,7 +1,7 @@
 --- 
 layout: item 
 format: Photograph 
-title: "Mom? And Baby on a Walk" 
+title: " " 
 author: " " 
 contributor: " " 
 creator: " " 
