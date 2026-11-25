@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: document 
-title: "Four Men in Winter Uniform" 
-author: "Brenda Allen" 
-contributor: "Brenda Allen" 
-creator: "Brenda Allen" 
-creationdate: 1940s-1960s??
-type: "photograph" 
+format: Photograph
+title: " " 
+author: " " 
+contributor: " " 
+creator: " " 
+creationdate:  
+type: "Photograph" 
 shortdesc: ""
-categories: [ Men, Allen Family ] 
-tags: [Allen Family]
+categories: [  Allen Family ] 
+tags: [ ]
 ---
 
