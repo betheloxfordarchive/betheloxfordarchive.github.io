@@ -1,13 +1,13 @@
 --- 
 layout: item 
-format: items
-title: “Service to Bethel AME Church" 
+format: Document
+title: “ " 
 author: 
-contributor: "Jerome Turner" 
+contributor: " " 
 creator: "" 
-creationdate: November 27, 2016
-type: “document" 
+creationdate:  
+type: “Publication" 
 shortdesc: ""
-categories: [ Faith, Leadership, Turner Family ] 
-tags: [Turner Family]
+categories: [ Turner Family ] 
+tags: [ ]
 --- 
