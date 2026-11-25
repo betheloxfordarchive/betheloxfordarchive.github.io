@@ -1,14 +1,14 @@
 --- 
 layout: item 
-format: document 
-title: "Girl or Woman Walking Down a Street" 
-author: "Brenda Allen" 
-contributor: "Brenda Allen" 
-creator: "Brenda Allen" 
-creationdate: Maybe 1963
-type: "photograph" 
+format: Photograph
+title: "Photograph" 
+author: " " 
+contributor: " " 
+creator: " " 
+creationdate:  
+type: "Photograph" 
 shortdesc: ""
-categories: [ Family Photos, Childhood, Allen Family ] 
-tags: [Allen Family]
+categories: [ Allen Family ] 
+tags: [ ]
 ---
 
